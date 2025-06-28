@@ -63,6 +63,6 @@ open index.html
 
 ## 👨‍💻 Author
 **Krowey Richmond Borquaye**
-[GitHub](https://github.com/krowey-richmond/our-team-layout)
-[LinkedIn](https://www.linkedin.com/in/krowey-richmond)  
-[Twitter](https://x.com/kromo772004)
+-[GitHub](https://github.com/krowey-richmond/our-team-layout)
+-[LinkedIn](https://www.linkedin.com/in/krowey-richmond)  
+-[Twitter](https://x.com/kromo772004)
