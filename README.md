@@ -1,12 +1,12 @@
 # Meet the Team Section | devChallenges
 
 <div align="center">
-  <a href="https://your-demo-link.com" target="_blank">
+  <a href="https://team-layout.netlify.app/" target="_blank">
     <img src="./thumbnail.jpg" alt="Project Preview" width="600" />
   </a>
 
-[![Live Demo](https://img.shields.io/badge/Live%20Preview-red)](https://your-demo-link.com)
-[![Solution Code](https://img.shields.io/badge/-Solution%20Code-blue)](https://github.com/your-username/meet-the-team)
+[![Live Demo](https://img.shields.io/badge/Live%20Preview-red)](https://team-layout.netlify.app/)
+[![Solution Code](https://img.shields.io/badge/-Solution%20Code-blue)](https://github.com/krowey-richmond/our-team-layout)
 
 </div>
 
@@ -15,7 +15,7 @@
 A responsive "Meet the Team" section built with semantic HTML and modern CSS techniques.
 
 Built as a solution to the  
-[Meet the Team Section Challenge](https://devchallenges.io/challenges/meet-the-team-section-challenge) by devChallenges.io.
+[Meet the Team Section Challenge](https://devchallenges.io/challenge/meet-the-team-section-challenge) by devChallenges.io.
 
 ## ✨ Features
 
@@ -56,7 +56,7 @@ Built as a solution to the
 ## 🚀 Getting Started
 
 ```bash
-git clone https://github.com/your-username/meet-the-team.git
+git clone https://github.com/krowey-richmond/our-team-layout.git
 cd meet-the-team
 open index.html
 ```
@@ -64,5 +64,6 @@ open index.html
 ## 👨‍💻 Author
 
 **Your Name**
-[GitHub](https://github.com/your-username)
-[Portfolio](https://your-portfolio.com)
+[GitHub](https://github.com/krowey-richmond/our-team-layout)
+[LinkedIn](https://www.linkedin.com/in/krowey-richmond)  
+[Twitter](https://x.com/kromo772004)
