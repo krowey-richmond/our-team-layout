@@ -62,8 +62,7 @@ open index.html
 ```
 
 ## 👨‍💻 Author
-
-**Your Name**
+**Krowey Richmond Borquaye**
 [GitHub](https://github.com/krowey-richmond/our-team-layout)
 [LinkedIn](https://www.linkedin.com/in/krowey-richmond)  
 [Twitter](https://x.com/kromo772004)
